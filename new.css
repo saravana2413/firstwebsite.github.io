@@ -1,0 +1,111 @@
+div{
+
+
+font-size: 25px;
+
+font-weight: bolder;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+
+#header{
+
+background-color: red;
+ width: px;
+height: 50px;
+text-align: center;
+padding: 25px;
+margin-bottom: 20px;
+}
+#middlebox{
+    background-color:greenyellow;
+    width:auto;
+    height: 70px;
+}
+#middlebox ul{
+
+    float: right;
+}
+#middlebox ul li{
+
+    display:inline;
+    margin: 10px;
+    
+}
+#middlebox ul li a{
+
+    text-decoration:none;
+    color: blanchedalmond;
+    
+}
+
+#poster{
+
+    width: auto;
+    height: px;
+    background-color:white;
+
+}
+
+
+
+#poster p{
+height:auto;
+width: auto;
+background-color: red;
+float: right;
+
+
+}
+
+#poster img{
+
+    width: 500px;
+    height: 500px;
+}
+
+#content1{
+
+    width: 30%;
+    height: px;
+    background-color: red;
+    float: left;
+    margin-right: 2.5%;
+    }
+    #content2{
+
+      width: 30%;
+      height: px;
+      background-color: olivedrab;
+      float: left;
+      
+      }
+      #content3{
+
+        width: 30%;
+        height: px;
+        background-color:royalblue;
+        float: right;
+        
+        }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
